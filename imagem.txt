@@ -1,0 +1,5 @@
+A foto deve ficar na pasta imagens e ter o nome frutas.jpg. O caminho usado no index.html é:
+
+<img
+  src="imagens/frutas.jpg"
+  alt="Banca com frutas e legumes frescos, como maçãs, bananas, tomates e cenouras">
